@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "591747202118",
+    "project_id": "chatapplication-1cb2d",
+    "storage_bucket": "chatapplication-1cb2d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:591747202118:android:e8f9967c6d4d21b8ebde47",
+        "android_client_info": {
+          "package_name": "com.bhushan.chatapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "591747202118-h8r4srikejel0uivb0ljpm2kh22q0tqk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQmVT7Cz_0lY1pqUXVKMs0EknpuV_cb7U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "591747202118-h8r4srikejel0uivb0ljpm2kh22q0tqk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
